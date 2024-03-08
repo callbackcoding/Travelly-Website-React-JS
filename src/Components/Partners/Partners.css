@@ -1,0 +1,15 @@
+.partners_main{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    justify-content: space-around;
+}
+
+.partners_img{
+    width: 130px;
+    height: 35px;
+}
+
+.partners_main div{
+    margin: 20px;
+}

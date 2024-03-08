@@ -1,0 +1,24 @@
+.newsletter{
+    padding-top: 100px;
+}
+.newsletter_box{
+    width: 80%;
+    background-color: #f7ccff6d;
+    margin: 0 auto;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 7px 5px 20px rgb(241, 241, 241);
+}
+.newsletter_heading1{
+        color: #F85E9F;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.newsletter_heading2{
+    font-size: 32px;
+}

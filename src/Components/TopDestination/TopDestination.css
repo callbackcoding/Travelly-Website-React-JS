@@ -1,0 +1,40 @@
+.top_destination_main{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.destination_card_box{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.top_destination_heading_1{
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #F85E9F;
+    margin-left: 30px;
+}
+
+.top_destination_heading_2{
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+
+/* card  */
+
+.card_main{
+    margin-top: 30px;
+    width: 350px;
+    border-radius: 32px 32px 10px 10px;
+    border: 1px solid rgb(230, 230, 230);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.card_font{
+    font-size: 20px;
+}

@@ -1,0 +1,10 @@
+.watch_demo_btn{
+    background-color: transparent !important;
+    border: 1px solid rgb(213, 213, 213);
+}
+
+
+.hero_main_div{
+background: rgb(248,237,237);
+background: linear-gradient(82deg, rgba(248,237,237,1) 0%, rgba(255,250,250,1) 46%);
+}
